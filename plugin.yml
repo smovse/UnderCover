@@ -1,0 +1,7 @@
+name: UnderCover
+main: me.nipe.UnderCover.UnderCover
+version: 0.1
+commands:
+  hej:
+    description: Svarer med en hilsen til spilleren
+    usage: /<command>
