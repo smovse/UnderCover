@@ -1,7 +1,20 @@
 name: UnderCover
 main: me.nipe.UnderCover.UnderCover
 version: 0.1
+author: mmmaaddss
 commands:
-  hej:
-    description: Svarer med en hilsen til spilleren
+  uc:
+    description: Ændrer spillerens navn til Undercover
+    usage: /<command>
+  undercover:
+    description: Ændrer spillerens navn til Undercover
+    usage: /<command>
+  unuc:
+    description: Ændrer spillerens navn til det normale navn
+    usage: /<command>
+  unundercover:
+    description: Ændrer spillerens navn til det normale navn
+    usage: /<command>
+  nick:
+    description: Ændrer spillerens navn til det normale navn
     usage: /<command>
